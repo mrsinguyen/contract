@@ -1,0 +1,26 @@
+{
+  "name": "contract",
+  "version": "1.0.0",
+  "description": "My personal contract",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "ethereumjs-util": "^5.1.2",
+    "truffle": "^3.2.93",
+    "truffle-hdwallet-provider": "0.0.3",
+    "zeppelin-solidity": "^1.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "prepublish": "truffle compile",
+    "test": "truffle test"
+  },
+  "files": [
+    "index.js",
+    "build/"
+  ],
+  "author": "Nguyen Tien Si",
+  "license": "ISC"
+}
