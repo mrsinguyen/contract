@@ -8,11 +8,12 @@
   },
   "dependencies": {
     "ethereumjs-util": "^5.1.2",
-    "truffle": "^3.2.93",
     "truffle-hdwallet-provider": "0.0.3",
     "zeppelin-solidity": "^1.0.7"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "truffle": "^3.3.0"
+  },
   "scripts": {
     "prepublish": "truffle compile",
     "test": "truffle test"
