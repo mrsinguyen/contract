@@ -1,7 +1,7 @@
 {
   "name": "contract",
   "version": "1.0.0",
-  "description": "My personal contract",
+  "description": "The Personal Ethereum Smart Contract",
   "main": "index.js",
   "directories": {
     "test": "test"
