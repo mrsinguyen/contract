@@ -22,6 +22,7 @@
     "index.js",
     "build/"
   ],
+  "repository": "https://github.com/mrsinguyen/contract.git",
   "author": "Nguyen Tien Si",
   "license": "ISC"
 }
